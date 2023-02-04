@@ -1,1 +1,1 @@
-“my second commit”
+“do hard thing”
